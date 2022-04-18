@@ -24,6 +24,7 @@ export const Navbar = () => {
                 <li>Work</li>
                 <li>Products</li>
                 <li>Blog</li>
+                <li>Staff</li>
                 <li>Contact</li>
             </ul>
 
@@ -41,6 +42,7 @@ export const Navbar = () => {
                 <li className='py-6 text-4xl'>Work</li>
                 <li className='py-6 text-4xl'>Products</li>
                 <li className='py-6 text-4xl'>Blog</li>
+                <li className='py-6 text-4xl'>Staff</li>
                 <li className='py-6 text-4xl'>Contact</li>
             </ul>
 
