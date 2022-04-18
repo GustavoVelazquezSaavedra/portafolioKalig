@@ -16,7 +16,7 @@ import NODE from "../assets/node.png";
 import GH from "../assets/github.png";
 export const Skills = () => {
   return (
-    <div name="skills"  className='w-full  bg-[#0A192F] text-gray-300'>
+    <div name="skill"  className='w-full  bg-[#0A192F] text-gray-300'>
 
         {/* Container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
